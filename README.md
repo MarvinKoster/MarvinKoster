@@ -10,9 +10,16 @@ I am just starting out as a developer, learning **Python**, **HTML**, and **CSS*
 
 ## Skills
 
-- **Python**: Currently learning the basics and exploring different projects.
-- **HTML & CSS**: Gaining experience in building simple web pages and front-end design.
-- **PyCharm**: My main IDE for Python development.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  Currently learning the basics and exploring different projects.
+  
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  Gaining experience in building simple web pages.
+  
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  Learning how to style and design web pages.
+
+- **PyCharm**: My main IDE for Python development.  
 - **Visual Studio Code**: Previously used as my coding editor.
 
 Feel free to explore my journey and check out my progress!
